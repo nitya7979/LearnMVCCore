@@ -1,1 +1,1 @@
-# LearnMVCCore
+# LearnMVCCore. Starting learing
